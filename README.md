@@ -8,28 +8,28 @@ Sample output
 
 - First: 0/100
 - Second: 0/100
-#remove 10
+- remove 10
 ---
 - First: 0/100
 - Second: 0/100
-#add 20
+- add 20
 ---
 - First: 20/100
 - Second: 0/100
-#remove 5
+- remove 5
 ---
 - First: 20/100
 - Second: 0/100
-#move 15
+- move 15
 ---
 - First: 5/100
 - Second: 15/100
-#remove 5
+- remove 5
 ---
 - First: 5/100
 - Second: 10/100
-#remove 20
+- remove 20
 ---
 - First: 5/100
 - Second: 0/100
-#quit
+- quit
