@@ -5,29 +5,36 @@ Procedural programming: liquid container
 - remove amount removes the amount of liquid specified by the parameter from the second container. If the program is requested to remove more liquid than the container currently holds, remove all the remaining liquid.
 
 - Sample output
+
 - First: 0/100
 - Second: 0/100
 #remove 10
+
 
 - First: 0/100
 - Second: 0/100
 #add 20
 
+
 - First: 20/100
 - Second: 0/100
 #remove 5
+
 
 - First: 20/100
 - Second: 0/100
 #move 15
 
+
 - First: 5/100
 - Second: 15/100
 #remove 5
 
+
 - First: 5/100
 - Second: 10/100
 #remove 20
+
 
 - First: 5/100
 - Second: 0/100
